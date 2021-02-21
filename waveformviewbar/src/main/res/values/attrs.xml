@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WaveformViewBar">
+
+        <attr name="wfv_parent_color" format="color" />
+        <attr name="wfv_parent_corner" format="float" />
+
+        <attr name="wfv_frame_color" format="color" />
+        <attr name="wfv_frame_corner" format="dimension" />
+
+        <attr name="wfv_waveform_color" format="color" />
+        <attr name="wfv_waveform_corner" format="dimension" />
+
+        <attr name="wfv_indicator_color" format="color" />
+        <attr name="wfv_indicator_corner" format="dimension" />
+
+        <attr name="wfv_progress_color" format="color" />
+        <attr name="wfv_progress_corner" format="dimension" />
+
+        <attr name="wfv_touch_area" format="integer" />
+
+    </declare-styleable>
+
+
+</resources>
